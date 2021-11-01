@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
